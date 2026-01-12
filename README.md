@@ -1,5 +1,4 @@
 # Spring_Study_DB_1 for Inflearn
-# Spring_Study_MVC_2_업로드 for Inflearn
 
 <div>
   <h3>□ 스프링 DB 1편 - 데이터 접근 핵심 원리</h3>
