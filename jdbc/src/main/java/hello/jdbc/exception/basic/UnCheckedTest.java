@@ -6,6 +6,13 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.*;
 
+/**
+ * 기본적으로 언체크 예외 사용
+ * 체크 예외는 비즈니스 로직상 의도적으로 던지는 예외에만 사용 -> 잘 안씀
+ *  - 예외를 반드시 잡아서 처리해야 하는 경우 체크 예외 사용
+ */
+
+
 @Slf4j
 public class UnCheckedTest {
 
